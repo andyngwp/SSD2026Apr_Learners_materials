@@ -8,7 +8,7 @@ This is the GitHub repository for all practicals to be completed as part of the 
 
 Please follow the steps below to set up and maintain your own practical repository for the module:
 
-1. **Create a GitHub repository** and name it using the following format: `SSD2025Oct_Practicals_<your_name>`
+1. **Create a GitHub repository** and name it using the following format: `SSD2026Apr_Practicals_<your_name>`
 
 2. **Set the repository to _Private_**: This ensures only you and your tutor can access the contents of your work.
 

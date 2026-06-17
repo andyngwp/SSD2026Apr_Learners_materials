@@ -13,13 +13,13 @@ You are required to manage your practical work using your personal GitHub reposi
 Create a GitHub repository named as follows:
 
 ```
-SSD2025Oct_Practicals_<your_name>
+SSD2026Apr_Practicals_<your_name>
 ```
 
 Example:
 
 ```
-SSD2025Oct_Practicals_AndyNg
+SSD2026Apr_Practicals_AndyNg
 ```
 
 ### ✅ GitHub Setup Instructions
